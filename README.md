@@ -1,6 +1,6 @@
 # ProjectTypeVariants
 
-+ Bingo
++ [Mexican Bingo](http://www.maravillasoftware.com/loteriamexicana.html)
 + Точки и отрезки
 
 ```
