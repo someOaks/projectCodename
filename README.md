@@ -1,5 +1,6 @@
 # ProjectTypeVariants
 
++ [Skype bot](https://javaprogramminglab.blogspot.com/2016/06/create-skype-bot-in-java.html)
 + [Mexican Bingo](http://www.maravillasoftware.com/loteriamexicana.html)
 + Точки и отрезки
 
